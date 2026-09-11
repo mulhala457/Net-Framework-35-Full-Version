@@ -229,3 +229,6 @@ This repository serves as the official landing page for .NET Framework 3.5. The 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of .NET Framework 3.5 today!**
+
+---
+**Last updated:** 2026-09-11 19:24:04 UTC
