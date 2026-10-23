@@ -231,4 +231,4 @@ This repository serves as the official landing page for .NET Framework 3.5. The 
 **Get the most recent version of .NET Framework 3.5 today!**
 
 ---
-**Last updated:** 2026-10-23 14:35:47 UTC
+**Last updated:** 2026-10-23 18:50:29 UTC
